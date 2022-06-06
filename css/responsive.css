@@ -43,6 +43,7 @@
     .cont h3 {
         font-size: 38px;
     }
+    
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -86,6 +87,15 @@
     .testimonial_Carousel {
         padding: 100px 40px;
     }
+        .textjas {
+        margin: 10px;
+        text-align: center;
+    }
+    .jasper {
+        width: 50%;
+        margin: 0 auto !important; 
+        display: block;
+    }
 }
 
 @media (min-width: 576px) and (max-width: 767px) {
@@ -123,6 +133,15 @@
     }
     .testimonial_Carousel {
         padding: 100px 20px;
+    }
+        .textjas {
+        margin: 10px;
+        text-align: center;
+    }
+    .jasper {
+        width: 50%;
+        margin: 0 auto !important; 
+        display: block;
     }
 }
 
@@ -165,6 +184,15 @@
     }
     .cont h3 {
         font-size: 34px;
+    }
+    .textjas {
+        margin: 10px;
+        text-align: center;
+    }
+    .jasper {
+        width: 50%;
+        margin: 0 auto !important; 
+        display: block;
     }
 }
 

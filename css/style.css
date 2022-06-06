@@ -169,7 +169,7 @@ img {
      height: auto;
 }
 
- :focus {
+:focus {
      outline: 0;
 }
 
@@ -336,17 +336,17 @@ button {
 }
 .banner_main_img h3 {
 
-    top: 0;
-    position: absolute;
-    right: 0;
-    left: 0;
-    bottom: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 50px;
-    font-weight: bold;
-    color: #1e2426;
+ top: 0;
+ position: absolute;
+ right: 0;
+ left: 0;
+ bottom: 0;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ font-size: 50px;
+ font-weight: bold;
+ color: #1e2426;
 
 }
 
@@ -528,11 +528,32 @@ button {
 
 /** end our_fruit section **/
 
+.textjas{
+     margin: 10px;
+}
+
+.maps{
+ overflow:hidden;
+ padding-bottom:56.25%;
+ position:relative;
+ height:0;
+}
+
+.maps iframe{
+ left:0;
+ top:0;
+ height:100%;
+ width:100%;
+ position:absolute;
+}
+
+
 
 /** testimonial section **/
 
 .testimonial {
      background-color: #fff;
+     margin-bottom: 25px;
 }
 
 .testimonial_Carousel {
@@ -621,7 +642,7 @@ button {
 
 .footer {
      background: #ffffff;
-     padding-top: 85px;
+     padding-top: 50px;
      text-align: center;
 }
 
