@@ -43,7 +43,7 @@
     .cont h3 {
         font-size: 38px;
     }
-    
+
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -87,7 +87,7 @@
     .testimonial_Carousel {
         padding: 100px 40px;
     }
-        .textjas {
+    .textjas {
         margin: 10px;
         text-align: center;
     }
@@ -95,6 +95,10 @@
         width: 50%;
         margin: 0 auto !important; 
         display: block;
+    }
+    .txtfact {
+        text-align: center;
+        margin-top: 50px;
     }
 }
 
@@ -134,7 +138,7 @@
     .testimonial_Carousel {
         padding: 100px 20px;
     }
-        .textjas {
+    .textjas {
         margin: 10px;
         text-align: center;
     }
@@ -142,6 +146,10 @@
         width: 50%;
         margin: 0 auto !important; 
         display: block;
+    }
+        .txtfact {
+        text-align: center;
+        margin-top: 50px;
     }
 }
 
@@ -193,6 +201,10 @@
         width: 50%;
         margin: 0 auto !important; 
         display: block;
+    }
+        .txtfact {
+        text-align: center;
+        margin-top: 50px;
     }
 }
 
