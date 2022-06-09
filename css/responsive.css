@@ -46,7 +46,7 @@
 
     .this{
      width:100%; 
-     height: 600px !important;
+     height: 700px !important;
 }
 
 }
@@ -97,6 +97,11 @@
         text-align: center;
     }
     .jasper {
+        width: 75%;
+        margin: 0 auto !important; 
+        display: block;
+    }
+        .jasper_2 {
         width: 50%;
         margin: 0 auto !important; 
         display: block;
@@ -148,6 +153,11 @@
         text-align: center;
     }
     .jasper {
+        width: 75%;
+        margin: 0 auto !important; 
+        display: block;
+    }
+        .jasper_2 {
         width: 50%;
         margin: 0 auto !important; 
         display: block;
@@ -203,6 +213,11 @@
         text-align: center;
     }
     .jasper {
+        width: 75%;
+        margin: 0 auto !important; 
+        display: block;
+    }
+        .jasper_2 {
         width: 50%;
         margin: 0 auto !important; 
         display: block;
