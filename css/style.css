@@ -190,9 +190,14 @@ img {
 }
 
 .form-control:focus {
-     border-color: #ffffff !important;
+     border-color: #767676 !important;
      box-shadow: 0 0 0 .2rem rgba(255, 255, 255, .25);
 }
+.form-control {
+    margin-top: 10px;
+    width: 400px;
+}
+
 
 .navbar-form input {
      border: none !important;
@@ -342,17 +347,17 @@ button {
 }
 .banner_main_img h3 {
 
- top: 0;
- position: absolute;
- right: 0;
- left: 0;
- bottom: 0;
- display: flex;
- justify-content: center;
- align-items: center;
- font-size: 50px;
- font-weight: bold;
- color: #1e2426;
+    top: 0;
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: #1e2426;
 
 }
 
@@ -539,18 +544,18 @@ button {
 }
 
 .maps{
- overflow:hidden;
- padding-bottom:56.25%;
- position:relative;
- height:0;
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
 }
 
 .maps iframe{
- left:0;
- top:0;
- height:100%;
- width:100%;
- position:absolute;
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
 }
 
 
@@ -642,7 +647,6 @@ button {
 
 
 /** end testimonial section **/
-
 
 /** footer **/
 
