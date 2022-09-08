@@ -106,11 +106,16 @@
         margin: 0 auto !important; 
         display: block;
     }
-    
+
     .txtfact {
         text-align: center;
         margin-top: 50px;
     }
+
+    .form-control {
+    margin-top: 10px;
+    width: 200px;
+}
 }
 
 @media (min-width: 576px) and (max-width: 767px) {
@@ -167,6 +172,10 @@
         text-align: center;
         margin-top: 50px;
     }
+        .form-control {
+    margin-top: 10px;
+    width: 200px;
+}
 }
 
 @media (max-width: 575px) {
@@ -227,5 +236,9 @@
         text-align: center;
         margin-top: 50px;
     }
+        .form-control {
+    margin-top: 10px;
+    width: 200px;
+}
 }
 
